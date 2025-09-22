@@ -147,6 +147,3 @@ Uso experimental. Requer chave de API do Google Gemini.
 *  Workflow de estados criado
 *  Integração com documentos internos via RAG
 *  Próximos passos: integração com sistemas de chamados e monitoramento de métricas
-
-Quer que eu faça isso?
-```
